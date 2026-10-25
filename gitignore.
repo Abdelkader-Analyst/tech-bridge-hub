@@ -1,0 +1,14 @@
+# See https://nextjs.org/docs/app/building-your-application/deploying/production-checklist#z-gitignore
+
+/node_modules
+/.next
+/out
+/build
+.DS_Store
+*.pem
+
+.env
+.env*.local
+
+Vercel.json
+.turbo
