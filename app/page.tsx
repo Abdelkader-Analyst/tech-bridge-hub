@@ -58,7 +58,7 @@ export default function Home() {
         <div className="max-w-5xl mx-auto text-center">
           <h1 className="text-4xl font-extrabold mb-3 tracking-tight">Tech Bridge Hub</h1>
           <p className="text-lg text-blue-100 max-w-2xl mx-auto">
-            بوابتك الأولى لاكتشاف أحدث الوظائف التقنية وعن بعد بكل سهولة واحترافية.
+            بوابتك الأولى لاكتشاف أحدث الوظائف التقنية العالمية وعن بعد بكل سهولة واحترافية.
           </p>
         </div>
       </header>
@@ -137,7 +137,7 @@ export default function Home() {
                     className="w-full md:w-auto inline-flex items-center justify-center gap-2 bg-blue-600 hover:bg-blue-700 text-white font-medium px-6 py-3 rounded-xl transition-all shadow-sm text-sm"
                   >
                     <span>تقديم الآن</span>
-                    <ExternalLink size5={16} />
+                    <ExternalLink size={16} />
                   </a>
                 </div>
               </div>
